@@ -1,4 +1,4 @@
-JulepPoker
+PlanningPoker
 ==========
 
-Planning poker the Julep way.
+A team pointing poker planning tool.
